@@ -14,12 +14,11 @@ UI Design: XML (Android Layouts)
 API: OpenWeatherMap API
 
 
+![Wearther5](https://github.com/user-attachments/assets/ab9c37e9-525c-4a11-aec2-d0e61e3988e5)
+![Wearther6](https://github.com/user-attachments/assets/ec914a4a-31c6-44b3-8f76-004d3ba0112c)
 ![Wearther4](https://github.com/user-attachments/assets/15bb371b-7c23-4b77-8e66-0af4f1a0d9d5)
 ![Wearther3](https://github.com/user-attachments/assets/4ee1944e-a86d-4caa-b988-cd332921e7ba)
-![Wearther](https://github.com/user-attachments/assets/84d08a4a-64ff-4e40-a54b-ded8b924c69d)
-![Wearther (2)](https://github.com/user-attachments/assets/4fd7436c-53ae-4a31-9007-ae1565ec0606)
-![Wearther6](https://github.com/user-attachments/assets/ec914a4a-31c6-44b3-8f76-004d3ba0112c)
-![Wearther5](https://github.com/user-attachments/assets/ab9c37e9-525c-4a11-aec2-d0e61e3988e5)
+![Wearther2](https://github.com/user-attachments/assets/4fd7436c-53ae-4a31-9007-ae1565ec0606)
 
 ## 📲 Download the App
 You can download the latest APK from the link below:
