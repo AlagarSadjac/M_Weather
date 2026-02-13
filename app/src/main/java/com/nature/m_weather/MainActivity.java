@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Enter city name", Toast.LENGTH_SHORT).show();
                 } else {
                     // API Call
-                    Call<WeatherResponse> call = weatherInterface.getWeatherData(city, "71225afc6bca30c9f864d993c9b2a549", "metric");
+                    Call<WeatherResponse> call = weatherInterface.getWeatherData(city, BuildConfig.WEATHER_API_KEY, "metric");
 
                     call.enqueue(new Callback<WeatherResponse>() {
                         @Override
@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
                             if (response.isSuccessful() && response.body() != null) {
 
                                 double temp = response.body().getMain().getTemp();
-                                resultText.setText(city + "-is Currently " + temp + "°C");
+                                resultText.setText(city + " is Currently " +  temp + "°C");
                             } else {
                                 resultText.setText("Information not available. Please check Key.");
                             }
